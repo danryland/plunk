@@ -2,26 +2,26 @@
   "pages": {
     "unsubscribe": {
       "title": "Dad-danysgrifio",
-      "description": "Wyt ti am roi'r gorau i dderbyn negeseuon e-bost gan {projectName} i gyfeiriad {email}?",
+      "description": "Mae'n drist i weld ti fynd. Ti'n siŵr ti eisiau dad-danysgrifio {email} o dderbyn negeseuon e-bost?",
       "button": "Dad-danysgrifio",
       "buttonLoading": "Yn dad-danysgrifio...",
       "managePreferences": "Rheoli dewisiadau yn lle",
       "successTitle": "Rwyt ti wedi dad-danysgrifio",
-      "successDescription": "Ni fydd {email} yn derbyn rhagor o negeseuon e-bost gan {projectName}.",
+      "successDescription": "Ni fydd {email} yn derbyn rhagor o negeseuon e-bost.",
       "changedMind": "Wedi newid dy feddwl?",
       "subscribeAgain": "Tanysgrifio eto"
     },
     "subscribe": {
       "title": "Tanysgrifio i gael diweddariadau",
-      "description": "Wyt ti am dderbyn negeseuon e-bost gan {projectName} i gyfeiriad {email}?",
+      "description": "Wyt ti am dderbyn negeseuon e-bost i gyfeiriad {email}?",
       "button": "Tanysgrifio",
       "buttonLoading": "Yn tanysgrifio...",
       "successTitle": "Rwyt ti wedi tanysgrifio!",
-      "successDescription": "Bydd {email} yn derbyn negeseuon e-bost gan {projectName} o hyn ymlaen."
+      "successDescription": "Bydd {email} yn derbyn negeseuon e-bost o hyn ymlaen."
     },
     "manage": {
       "title": "Rheoli dewisiadau",
-      "description": "Rheoli'r negeseuon e-bost y mae {projectName} yn eu hanfon i {email}.",
+      "description": "Rheoli dewisiadau e-bost ar gyfer {email}.",
       "subscriptionLabel": "Tanysgrifiad e-bost",
       "subscribedStatus": "Rwyt ti wedi tanysgrifio i dderbyn negeseuon e-bost ar hyn o bryd",
       "unsubscribedStatus": "Nid wyt ti wedi tanysgrifio i dderbyn negeseuon e-bost ar hyn o bryd",
